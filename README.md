@@ -6,7 +6,7 @@
 
 Este proyecto analiza la evolución temporal de publicaciones de prendas en línea utilizando el dataset **`outfits.csv`**, en el contexto de la asignatura **Inteligencia de Negocios**.
 
-Se aplican tres técnicas de Machine Learning orientadas al análisis temporal dentro del marco de Business Intelligence:
+Se aplican tres técnicas orientadas al análisis temporal dentro del marco de Business Intelligence:
 
 - **Regresión lineal:** estima la tendencia de crecimiento en el tiempo.  
 - **Clasificación (Random Forest):** distingue publicaciones recientes y periodos de alta o baja actividad.  
